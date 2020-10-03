@@ -6,6 +6,6 @@ describe('Make sure it responds', () => {
     request("localhost:80")
       .get("/")
       .expect(200);
-  }
+  });
 });
 
