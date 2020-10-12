@@ -11,6 +11,12 @@ This is an un-official project, not assosiated with DigitalOcean, Intel or DEV. 
 3. Run `npm install` in the cloned folder.
 4. Then compile assets with `npm run dev` or watch for asset changes with `npm run watch`.
 
+## Docker Container
+You can run the site as a docker container which will build and serve the contents of the site.
+1. `docker build . -t hff`
+2. `docker run -d -p 8080:80 hff`
+3. Visit http://127.0.0.1:8080
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/damcclean/hacktoberfest-finder/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
