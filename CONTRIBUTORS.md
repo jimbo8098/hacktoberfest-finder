@@ -4,7 +4,8 @@
 
 - [liorbentov](https://github.com/liorbentov)
 - [agonzalezio](https://github.com/agonzalezio)
-- [TicTak21](https://github.com/TicTak21
+- [TicTak21](https://github.com/TicTak21)
+- [jimbo8098](https://github.com/jimbo8098)
 
 ## 2019
 
