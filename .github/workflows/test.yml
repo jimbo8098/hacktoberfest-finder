@@ -2,7 +2,7 @@ name: Hacktoberfest Finder
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master,tests ]
   pull_request:
     branches: [ master ]
 
